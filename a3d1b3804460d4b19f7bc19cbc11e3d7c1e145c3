@@ -1,0 +1,46 @@
+docs/src/content/en/reference/storage/overview.mdx
+  5dc9b15737844ac2 14-17,19,22-36,38
+  08888bbdb77c0196 18,20-21,37,39
+docs/src/content/en/reference/storage/composite.mdx
+  5dc9b15737844ac2 40-47,51,125-129,169-219
+  08888bbdb77c0196 48,50,52-56,136,220
+docs/src/content/en/docs/memory/storage.mdx
+  08888bbdb77c0196 3,17,43,70
+  5dc9b15737844ac2 92
+.changeset/fix-storage-domain-docs.md
+  5dc9b15737844ac2 1,3-9
+  08888bbdb77c0196 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.9",
+  "base_commit_sha": "a3d1b3804460d4b19f7bc19cbc11e3d7c1e145c3",
+  "prompts": {
+    "08888bbdb77c0196": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019cd841-2735-7840-8a88-2e70b44267c0",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Brennan McEachran <brennanmceachran@gmail.com>",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 12,
+      "accepted_lines": 20,
+      "overriden_lines": 0
+    },
+    "5dc9b15737844ac2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019cd840-371a-7842-b8fa-4076a8a3695c",
+        "model": "unknown"
+      },
+      "human_author": "Brennan McEachran <brennanmceachran@gmail.com>",
+      "messages": [],
+      "total_additions": 108,
+      "total_deletions": 4,
+      "accepted_lines": 99,
+      "overriden_lines": 0
+    }
+  }
+}
