@@ -1,0 +1,29 @@
+.changeset/idgenerator-docs-reference-fix.md
+  8de978d28fc4a180 1-5
+docs/src/content/en/reference/configuration.mdx
+  8de978d28fc4a180 106,111-119,132-142
+docs/src/content/en/reference/harness/harness-class.mdx
+  8de978d28fc4a180 250
+docs/src/content/en/reference/core/mastra-class.mdx
+  8de978d28fc4a180 82,84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.9",
+  "base_commit_sha": "d39684e6f0ad3fc8893e983addb8e63b4807e7b9",
+  "prompts": {
+    "8de978d28fc4a180": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019cd7fd-7595-7a92-b100-8d8676c4992f",
+        "model": "unknown"
+      },
+      "human_author": "Brennan McEachran <brennanmceachran@gmail.com>",
+      "messages": [],
+      "total_additions": 31,
+      "total_deletions": 6,
+      "accepted_lines": 30,
+      "overriden_lines": 1
+    }
+  }
+}
